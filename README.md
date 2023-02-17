@@ -1,2 +1,0 @@
-# AngProjGit
-Demo for git
